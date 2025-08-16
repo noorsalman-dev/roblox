@@ -13,14 +13,6 @@ Can you survive the invasion and wipe out the alien threat?
 * **Win Condition:** Defeat all waves of aliens.
 * **Lose Condition:** Your health reaches zero.
 
-## 🕹️ Controls
-
-* **W / A / S / D** – Move your character
-* **Mouse** – Aim
-* **Left Click** – Shoot
-* **R** – Reload
-* **Spacebar** – Dash / Evade
-* **Esc** – Pause Menu
 
 ## 🔫 Features
 
